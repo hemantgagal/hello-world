@@ -1,0 +1,27 @@
+Import 
+
+DY - BELUX 
+
+Ed - NL and NORDICS
+
+XML
+
+Pooja - NL
+
+Rangoli - BELUX and NORDICS
+
+9950682685
+
+Machine Type and Serial Number Issue while sending to NORDICS.
+
+Request Summary Create - Gaurav
+Request Summary Update - DY
+
+
+--------------------------------1s sept prod move---------------
+	
+Story 1602295: Addition of new Sales rep for Turkey	- DY
+
+Story 1618131: Malta: Additional 2H18 Coverage changes - Pooja
+
+cluster need to be deployed on monday
